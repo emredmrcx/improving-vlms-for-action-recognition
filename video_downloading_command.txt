@@ -1,0 +1,1 @@
+example: python epic_downloader.py --videos --participants P01 --specific-videos P02_122,P03_04 --output-path ./data
