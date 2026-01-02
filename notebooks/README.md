@@ -78,11 +78,3 @@ This stage handles large-scale evaluation and analysis.
 - Dataset paths, checkpoints, and environment variables may require adjustment depending on the execution environment.
 - The repository supports ablation studies, controlled comparisons, and final benchmarking for research-oriented analysis.
 
----
-
-## Project Summary
-
-This repository investigates the robustness of modern Vision–Language Models for action recognition by:
-- Constructing hard, visually grounded MCQ benchmarks,
-- Reducing reliance on language priors,
-- And systematically evaluating multimodal reasoning under challenging distractor settings.
