@@ -76,5 +76,3 @@ This stage handles large-scale evaluation and analysis.
 - Notebooks are designed to be runnable independently but follow the intended pipeline:  
   **distractor generation → fine-tuning → inference**.
 - Dataset paths, checkpoints, and environment variables may require adjustment depending on the execution environment.
-- The repository supports ablation studies, controlled comparisons, and final benchmarking for research-oriented analysis.
-
